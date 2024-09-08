@@ -20,7 +20,11 @@ namespace Interview_Practice.Controllers
         {
             _mycontext.tbl_student.Add(student);
             _mycontext.SaveChanges();
-            return View();
+            return RedirectToAction("fetch");
+        }
+        public IActionResult Fetch()
+        {
+            return View(_mycontext.tbl_student.ToList());
         }
     }
 }
