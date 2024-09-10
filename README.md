@@ -10,3 +10,6 @@
 
 <h1>Delete Work</h1>
 
+![image](https://github.com/user-attachments/assets/89a76a16-d650-452e-ab39-27eb60fb3c10)
+
+
