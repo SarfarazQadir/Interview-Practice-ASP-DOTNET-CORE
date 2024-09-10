@@ -5,3 +5,6 @@
 <h1>Fetch Data</h1>
 
 ![image](https://github.com/user-attachments/assets/6fb09878-066f-4d7b-9d09-02f97f114457)
+
+![image](https://github.com/user-attachments/assets/b51207cd-e4a3-4480-b0c1-1dbd5b7eea15)
+
